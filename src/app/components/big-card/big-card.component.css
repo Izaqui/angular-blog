@@ -16,6 +16,10 @@
   margin-top: 15px;
   font-size: 20px;
 }
+.big-card__title > h1:hover {
+  box-shadow: 0 .1rem 2rem;
+  transform: scale(1.02);
+}
 
 .big-card__description{
   margin-top: 20px;

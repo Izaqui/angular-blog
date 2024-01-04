@@ -10,5 +10,11 @@ export const dataFake = [
     "title": "Nova Série anunciada no Disney +",
     "description": "bla blabla",
     "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+  },
+  {
+    "id":"5",
+    "title": "Falcão e o Soldado Invernal",
+    "description": "bla blabla",
+    "photoCover":"https://cinepop.com.br/wp-content/uploads/2021/03/falcao-e-soldado-invernal.jpg"
   }
 ]
